@@ -1,7 +1,7 @@
 # Machine-Learning-for-Credit-Approval-
 This project is to build ML model to classify if credit should be approved or not.
 The data is from UC Irvine Machine Learning Repository (http://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.data)
-The data doesn't provide information of each column because they are personal data which is sensitive.
+The data doesn't provide information of each column because those are personal data which is sensitive.
 To summarize the process that I did in my jupyter notebook:
 - 1. prepare data  -->
        a) missing value
